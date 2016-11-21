@@ -1,6 +1,6 @@
 ## Karo's Research
 
-### [Mammogram Clasiffication](https://github.com/KaroAntonio/mammogram-classification)
+### [Mammogram Classification](https://github.com/KaroAntonio/mammogram-classification)
 **Karo Castro-Wunsch, Ramaneek Gill, Ishtiaque Khaled, James Yuan**
 
 
@@ -12,9 +12,6 @@ Implementing and Evaluating CNNs, attention mechanism enabled LSTMs and GANs for
 
 
 We explored different models for the classification of water pipes in Ontario. In comparing models we are trying to build a model that is more consistent and has a higher performance than the system of expert advice currently in place. 
-
-
-
 
 ### [Evaluating Neural Networks as a Method for Identifying Students in Need of Assistance](https://github.com/KaroAntonio/student-classification)
 **Karo Castro-Wunsch, Andrew Petersen, Alireza Ahadi**     
