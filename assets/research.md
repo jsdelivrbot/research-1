@@ -22,7 +22,7 @@ This work provides two contributions: first, a partial reproduction of previousl
 
 
 ### [Automated Music Mixing](https://github.com/KaroAntonio/music-phrasing) and [Style Transfer](https://github.com/KaroAntonio/music-rnn-tensorflow)
-**Karo Castro-Wunsch**
+**Karo Castro-Wunsch, Michael Guerzhoy**
 
 
 An investigation into automated song transposition. Segmentation and mixing via STFT based audio analysis and recomposition proved to have mixed results where some songs were correctly segmented whereas others with less regular structures and more prevalent vocals were. Style Transfer to translate a song from one instrument to another was implemented with an seq to seq model. The model was able to reproduce music in short time windows. 
@@ -40,6 +40,7 @@ We investigated Parameterized Poker Squares to approximate an optimal game playi
 
 
 ### Staring At Plants
+**Vicky Bilbily, Karo Castro-Wunsch**
 We engaged in retinal jousting with a broad range of flora.
 
 
